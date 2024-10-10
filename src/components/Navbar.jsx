@@ -17,11 +17,11 @@ const Navbar = () => {
               alt="Menu Icon"
               className="h-5 w-5 md:hidden"
             />
-            <nav className="hidden md:flex gap-6 text-black/60 items-center">
+            <nav className="hidden md:flex gap-6 text-black/90 items-center">
               <a href="#">About Us</a>
               <a href="#">Internships</a>
               <a href="#">Services</a>
-              <a href="#">Testimonials</a>
+              <a href="/testimonials">Testimonials</a>
               <a href="#">Find Us</a>
             </nav>
           </div>
