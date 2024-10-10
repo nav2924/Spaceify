@@ -9,7 +9,7 @@ const Footer = () => {
           <img
             src="/Wireframe - 1.png" // Update with your logo path
             alt="Spaceify Logo"
-            className="w-20 h-full mx-auto rounded-lg"
+            className="w-28 h-full mx-auto rounded-lg"
           />
         </div>
 

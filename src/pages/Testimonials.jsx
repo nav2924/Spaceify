@@ -136,7 +136,7 @@ const Testimonial1 = () => {
   return (
     <div>
       <Navbar />
-      <section className="ezy__testimonial1 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white">
+      <section className="ezy__testimonial1 light py-14 md:py-24 bg-amber-50 dark:bg-[#0b1727] text-zinc-900 dark:text-white">
         <div className="container px-4 mx-auto">
           <div className="flex justify-center md:mb-6">
             <div className="sm:max-w-lg text-center">
